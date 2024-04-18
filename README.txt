@@ -44,3 +44,38 @@ ________________________________________________________________________________
 -   Updated:
     ~   README.txt
 =======================================================================================================================
+|||||||||||||||||||||||||||||||||||||||||||||||||||| **BRANCH 1** |||||||||||||||||||||||||||||||||||||||||||||||||||||
+_______________________________________________________________________________________________________________________
+||||||||||||||||||||||||||||||||||||||||||||||||||||**VERSION 1.0**||||||||||||||||||||||||||||||||||||||||||||||||||||
+_______________________________________________________________________________________________________________________
+-	Provided file content copied over to personal files for modification
+-	'index.html' updated with input types, connected to 'styles.css' and 'scripts.js'
+-	'scripts.js' updated with input methods and data
+-	'styles.css' content copied from provided 'styles.css^1^' content
+-----------------------------------------------------------------------------------------------------------------------
+-	Added:
+	~	Resources										[M5PJSPassGen/Resources]
+			(SubDir)
+	~	password_generator-main.zip						[Resources/]
+	~	password_generator-main &+						[Resources/password_generator-main]
+			(password_generator-main.zip extract; SubDir)
+	~	Theirs											[M5PJSPassGen/Theirs]
+			(SubDir)
+-----------------------------------------------------------------------------------------------------------------------
+-	Updated:
+	~	index.html										[M5PJSPassGen/]
+			^0.0	=	1.0^
+	~	scripts.js										[M5PJSPassGen/]
+			^0.0	=	1.0^
+	~	styles.css										[M5PJSPassGen/]
+			^0.0	=	1.0^
+	~	README.txt										[M5PJSPassGen/]
+-----------------------------------------------------------------------------------------------------------------------
+-	Copied:
+	~	index.html										[password_generator-main/] = [Theirs/]
+			^1^
+	~	script.js										[password_generator-main/] = [Theirs/]
+			^1^
+	~	styles.css										[password_generator-main/] = [Theirs/]
+			^1^
+=======================================================================================================================
